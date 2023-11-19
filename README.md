@@ -5,4 +5,4 @@ Bateria através das teclas, projeto feito junto ao curso B7Web, entretanto fiz 
 
 CSS, HTML, JavaScript
 
-Link do projeto: https://diegodev1312.github.io/drums-game/
+Deploy: https://diegodev1312.github.io/drums-game/
