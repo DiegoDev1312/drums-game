@@ -1,2 +1,2 @@
-# battery-game
+# drums-game
 Bateria através das teclas
